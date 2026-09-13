@@ -1,0 +1,31 @@
+# Datos: NO versionar datos clínicos/radiómicos crudos
+data/*
+!data/README.md
+
+# Modelos y checkpoints binarios
+models/*
+!models/.gitkeep
+**/*.joblib
+**/*.pkl
+**/folds/
+**/final_models/
+**/checkpoints/
+
+# Python / notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Credenciales / secretos
+.env
+.env.*
+*.key
+*.pem
+*token*
+*secret*
+
+# Sistema
+.DS_Store
+Thumbs.db
