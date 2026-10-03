@@ -1,3 +1,5 @@
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Uz-iel/Tesis-2/blob/main/Script_de_radiomica_.ipynb)
+
 # Piloto de radiómica pancreática
 
 Autor: Uzziell Gariazzo Anarcaya. Actualización: 3 de octubre de 2026.
