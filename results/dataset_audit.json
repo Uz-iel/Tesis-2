@@ -1,0 +1,8 @@
+{
+  "n_rows": 150,
+  "n_patients": 150,
+  "n_positive": 89,
+  "n_negative": 61,
+  "positive_fraction": 0.593333,
+  "n_numeric_features": 107
+}
